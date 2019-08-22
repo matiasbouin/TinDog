@@ -1,2 +1,1 @@
-# TinDog
-A Tinder's copycat
+TinDog Starting Files
