@@ -1,4 +1,4 @@
-# Tinder's copy cat, for dogs
+# Tinder's copycat, for dogs
 
 ### Responsinve landing page made with plain HTML, CSS, JS and Bootstrap
 
